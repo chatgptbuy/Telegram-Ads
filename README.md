@@ -67,6 +67,8 @@ Telegram Ads 的逻辑，更接近：
 - 大型频道底部
 - 消息流下方
 - 推荐区域
+<img width="1280" height="960" alt="da64b95fe51d719aa07bd34e935884f2" src="https://github.com/user-attachments/assets/90a947df-aec4-45d7-b941-cacc0d42774f" />
+<img width="591" height="1280" alt="dde65f32b478539aee6fe3d6fa420fea" src="https://github.com/user-attachments/assets/6cb30509-81ee-4580-8b8a-dfbe5fe8f0c4" />
 
 有点类似：
 
@@ -176,6 +178,7 @@ Telegram 并没有非常完善的兴趣标签体系。
 ---
 
 # 1️⃣ 账户准备
+<img width="1618" height="886" alt="image" src="https://github.com/user-attachments/assets/3a8ca19d-047c-4bf9-9e60-84c681fb55a2" />
 
 目前常见方式有两种：
 
