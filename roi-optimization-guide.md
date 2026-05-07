@@ -566,4 +566,6 @@ $20 - $50
 ---
 
 # 更多 Telegram Ads 实战内容
+## Related Articles
 
+- [Telegram Ads 频道筛选方法](channel-selection-guide.md)
