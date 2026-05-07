@@ -685,8 +685,10 @@ Telegram Ads 最容易被误解的一点是：
 
 
 
+👉 [Telegram Ads 实战教程网站](https://sites.google.com/view/tgads/)
 
-
+- [频道筛选方法](channel-selection-guide.md)
+- [ROI 提升技巧](roi-optimization-guide.md)
 -
 
 
