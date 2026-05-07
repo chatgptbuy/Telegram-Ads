@@ -1,5 +1,10 @@
 # Telegram Ads 实战复盘：一个月从 0 到 ROI 3.8，我是怎么跑通的？
 
+<img width="1280" height="800" alt="8f85f38dc756d410cc59ee501b9ae097" src="https://github.com/user-attachments/assets/2b5bb7ff-0952-49c4-b48b-071c2c3b0835" />
+
+<img width="1199" height="662" alt="00eb023c12efbee033bb9c3888137497" src="https://github.com/user-attachments/assets/47b40aa9-84cf-498a-80de-1e073fe8ff54" />
+<img width="1280" height="960" alt="9f9e56ece30d65c59bf0eadaccd5c71c" src="https://github.com/user-attachments/assets/dd76d304-3a7b-427b-bd91-28ae969b9ce9" />
+
 这两年，越来越多人开始关注 Telegram Ads。
 
 尤其是：
