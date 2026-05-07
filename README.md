@@ -1,4 +1,5 @@
 # Telegram Ads 实战复盘：一个月从 0 到 ROI 3.8，我是怎么跑通的？
+先看看我这边的投放数据
 
 <img width="1280" height="800" alt="8f85f38dc756d410cc59ee501b9ae097" src="https://github.com/user-attachments/assets/2b5bb7ff-0952-49c4-b48b-071c2c3b0835" />
 
